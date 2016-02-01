@@ -374,7 +374,7 @@ StringTable mainMenu
 		}
 		{
 			String _name = "Mod";
-			String _text = "加载MOD";
+			String _text = "模组";
 		}
 		{
 			String _name = "Goal";
